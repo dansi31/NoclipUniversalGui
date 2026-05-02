@@ -16,6 +16,7 @@ local NoClipping = false
 local Stepped
 
 Noclip.Name = "Noclip"
+Noclip.ResetOnSpawn = false
 Noclip.Parent = game.Players.LocalPlayer.PlayerGui
 
 BG.Name = "BG"
